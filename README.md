@@ -29,7 +29,7 @@ O objetivo é combinar todos os pares de cartas no menor número possível de jo
 ## 📂 Estrutura do Projeto  
 
 ```bash
-📁 tesla-clone
+📁 jogo-da-memoria
 ├── index.html        # Estrutura principal do jogo
 ├── styles.css        # Estilos, responsividade e animações
 ├── script.js         # Lógica e interatividade do jogo
